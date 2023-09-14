@@ -1,1 +1,1 @@
-# Grafuation project (ITI advanced summer) Fota /start of CAN bootloader 
+# Graduation project (ITI advanced summer) Fota /start of CAN bootloader 
